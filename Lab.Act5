@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Javascript</title>
+</head>
+<body>
+    <p id="text">John Laurenze</p>
+</body>
+<script src="script.js"></script>
+</html>
