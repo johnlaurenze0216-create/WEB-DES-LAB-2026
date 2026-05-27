@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>JavaScript</title>
+    </head>
+    <body>
+        <p id="text">Juan Dela Cruz</p>
+    </body>
+    <script src="script.js"></script>
+</html>
